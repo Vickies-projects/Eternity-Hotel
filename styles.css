@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    font-family: 'Times New Roman', sans-serif; 
+}
+/*................order...............*/
+p {
+    font-family: 'Times New Roman', serif;
+ }
+h1, h2{
+    font-family: 'Algerian', serif;
+    text-align: center;
+ }
+/*..................preparations.............*/
+h4 {
+    text-align: right;
+ }
